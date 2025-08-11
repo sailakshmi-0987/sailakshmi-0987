@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🌟 Skilled in **MERN Stack**,**Git**and **SQL**
+- 🌟 Skilled in **MERN Stack**, **Git**, and **SQL**
 - 📚 Backend specialist who loves optimizing database queries
 - 🎯 Goal: Master microservices & cloud-native applications
 - ⚡ Fun fact: My commits are fueled by ☕ coffee and 🎵 music
@@ -40,29 +40,29 @@
 ---
 
 ## 📊 GitHub Stats
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ummadivishnuvardhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ummadivishnuvardhan&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ummadivishnuvardhan&theme=radical)
+![Sai Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sailakshmi-0987&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sailakshmi-0987&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sailakshmi-0987&theme=radical)
 
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/ummadivishnuvardhan/ummadivishnuvardhan/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/sailakshmi-0987/sailakshmi-0987/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔥 Latest Projects
-[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=ummadivishnuvardhan&repo=vishnuvardhan&theme=radical)](https://github.com/ummadivishnuvardhan/vishnuvardhan)
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=sailakshmi-0987&repo=sailakshmi-0987&theme=radical)](https://github.com/sailakshmi-0987)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ummadi-vishnuvardhan-a50b88221/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailakshmi-gajulapalli-4a05b2280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ummadivishnuvardhan46@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://vishnu-portfolio-personal.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 
 ---
+
 ✨ _Thanks for visiting my profile!_ ✨
