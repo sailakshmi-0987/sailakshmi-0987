@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sai Lakshmi
 
-🎓 **MERN Stack Developer**  
-💻 Passionate about building scalable full-stack applications  
+🎓 **SOFTWARE ENGINEER**  
+💻 Passionate about building scalable full-stack applications,Automatind and AI.
 🌱 Always exploring new tech and deployment strategies
 
 ---
 
 ## 🚀 About Me
-- 🌟 Skilled in **MERN Stack**, **Git**, and **SQL**
+- 🌟 Skilled in **MERN Stack**, **Git**, **SQL** , **DevOps**
 - 📚 Backend specialist who loves optimizing database queries
 - 🎯 Goal: Master microservices & cloud-native applications
 - ⚡ Fun fact: My commits are fueled by ☕ coffee and 🎵 music
