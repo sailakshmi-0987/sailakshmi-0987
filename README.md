@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sai Lakshmi
 
 🎓 **SOFTWARE ENGINEER**  
-💻 Passionate about building scalable full-stack applications,Automatind and AI.
+💻 Passionate about building scalable full-stack applications,Automating and AI.
 🌱 Always exploring new tech and deployment strategies
 
 ---
